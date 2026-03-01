@@ -1,7 +1,7 @@
 # blinkit-project
 Power BI Sales Dashboard analyzing Blinkit grocery data with insights on total sales, outlet performance, item types, ratings, and fat content distribution.
 
-# Project Overview
+## Project Overview
 
 This project presents a Power BI dashboard analyzing sales performance of Blinkit – Myanmar’s Last Minute App.
 
@@ -17,7 +17,7 @@ The dashboard provides insights into:
 
 The goal of this project is to analyze retail sales performance and identify trends across outlet types, item categories, and fat content distribution.
 
-# Dataset Information
+## Dataset Information
 
 Dataset includes the following fields:
 
@@ -41,7 +41,7 @@ Item Visibility
 
 Item Weight
 
-# Dashboard Features
+## Dashboard Features
 
 1️ Sales Overview
 
@@ -49,7 +49,7 @@ Item Weight
 
 3️ Product Analysis
 
-# Tools Used
+## Tools Used
 
 Power BI Desktop
 
@@ -57,7 +57,7 @@ DAX (for calculated measures)
 
 Data Cleaning & Transformation (Power Query)
 
-# Key Insights
+## Key Insights
 
 Tier 3 outlets generated the highest sales.
 
