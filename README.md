@@ -67,4 +67,4 @@ Low fat and regular fat items contribute differently across outlet tiers.
 
 Sales trend increased significantly after 2018.
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](https://github.com/michaw-warehouse/blinkit-project/blob/a7fbd6de46a2e945addd6d0af92ff38bf24487ad/Screenshot%202026-03-01%20150001.png)
